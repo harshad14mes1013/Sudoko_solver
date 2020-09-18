@@ -1,2 +1,2 @@
-# Sudoko_solver
-Solve sudoko
+# Sudoku_solver
+Solve sudoku
