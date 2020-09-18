@@ -76,20 +76,10 @@ def solve(bo):
     return False
 
 print_board(board)
-print("**********************************")
+print("**************After solving********************")
+print("***********************************************")
 solve(board)
 print_board(board)
-
-    
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
